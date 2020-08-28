@@ -1,0 +1,2 @@
+# Hummingbird
+Building a tool in Python to enable developers to provide users with higher availability by implementing chaos engineering through simulated cloud failures and by presenting a rapid fallback mechanism to rotate traffic over to unaffected cloud platforms. Also integrating support for custom predictive fault models to determine when unused cloud resources should be spun up to be ready to handle incoming traffic rather than causing downtime during traffic transitions.
